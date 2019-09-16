@@ -1,0 +1,12 @@
+{
+  "name": "amb",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "serialport": "^7.1.5"
+  }
+}
